@@ -12,5 +12,5 @@
 //aws
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 //??
-<img src="https://img.shields.io/badge/react?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/nestjs?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/react?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/nestjs?style=for-the-badge&logo=nestjs&logoColor=white">
